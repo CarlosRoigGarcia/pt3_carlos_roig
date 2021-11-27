@@ -1,0 +1,265 @@
+img.Delicias{
+    position: relative; left:40vw
+}
+nav{
+    position:-webkit-sticky;
+    position: sticky;
+     top:15vw; left:5vw;
+    margin-left: 20vw;
+    letter-spacing: 10px;
+    display:inline-block;
+    background-color: white;
+    z-index: 100;
+}
+a.nav{
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+hr.barra{
+    border-color: chocolate;
+    width: 80vw;
+    position: relative;
+    right: 10vw;
+    
+}
+
+div.Sobremi{
+    position:relative; top:2vw;
+}
+div.libro{
+    position:relative; left:5vw; 
+    display:inline-block;
+    border: 3vw;
+    height: 25vw;
+    background-color: whitesmoke;
+}
+img.libro{
+    position:relative; left:2vw; top:1vw;
+}
+
+h4.libro {
+    position:absolute; left:2.5vw; top:0vw;
+}
+div.apun{
+    position:absolute; right:0vw; top:23vw;
+    display:inline-block;
+    background-color: chartreuse;
+    width: 100%;
+    height: 10%;
+}
+h5.libro{ 
+    position:absolute; bottom:-50%; left:30%;
+    
+    
+}
+
+
+
+article.pasta{
+   position: absolute; left:28vw; top:12vw;
+
+}
+
+a.pasta{
+    text-decoration: none;
+}
+
+a.galetes{
+    text-decoration: none;
+}
+
+a.mijo{
+    text-decoration: none;
+}
+
+a.calabacin{
+    text-decoration: none;
+}
+.giro{
+    background-color: transparent;
+    position:relative; 
+}
+.giro-interno{
+  position: relative;
+  
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.giro:hover .giro-interno{
+    transform:rotateY(180deg);
+}
+
+.giro-frontal, .giro-detras {
+    position:relative;  
+    --webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+}
+
+.giro-detras {
+    position:absolute; top:0vw; right:0vw;
+    
+    background-color:steelblue;
+    color:white;
+    width: 23vw;
+    height: 16vw;
+    transform: rotateY(180deg);
+}
+
+article.galetes{
+    position: absolute; left: 60vw; top:12vw;
+}
+
+.giro-dos{
+    background-color: transparent;
+    position:relative; 
+}
+.giro-interno-dos{
+  position: relative;
+  
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.giro-dos:hover .giro-interno-dos{
+    transform:rotateY(180deg);
+}
+
+.giro-frontal-dos, .giro-detras-dos {
+    position:relative;
+    --webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+}
+
+.giro-detras-dos {
+    position:absolute; top:0vw; right:0vw;
+    
+    background-color:steelblue;
+    color:white;
+    width: 23vw;
+    height: 16vw;
+    transform: rotateY(180deg);
+}
+
+
+
+
+article.mijo{
+    position: absolute; left:28vw; top:45vw;
+
+    
+}
+
+.giro-tres{
+    background-color: transparent;
+    position:relative; 
+}
+.giro-interno-tres{
+  position: relative;
+  
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.giro-tres:hover .giro-interno-tres{
+    transform:rotateY(180deg);
+}
+
+.giro-frontal-tres, .giro-detras-tres {
+    position:relative; 
+    --webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+}
+
+.giro-detras-tres {
+    position:absolute; top:0vw; right:0vw;
+    
+    background-color:steelblue;
+    color:white;
+    width: 24vw;
+    height: 16vw;
+    transform: rotateY(180deg);
+}
+
+article.calabacin{
+    position: absolute; left:60vw; top:46vw;
+}
+
+.giro-quatre{
+    background-color: transparent;
+    position:relative; 
+}
+.giro-interno-quatre{
+  position: relative;
+  
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.giro-quatre:hover .giro-interno-quatre{
+    transform:rotateY(180deg);
+}
+
+.giro-frontal-quatre, .giro-detras-quatre {
+    position:relative;
+    --webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+}
+
+.giro-detras-quatre {
+    position:absolute; top:0vw; right:0vw;
+    
+    background-color:steelblue;
+    color:white;
+    width: 24vw;
+    height: 16vw;
+    transform: rotateY(180deg);
+}
+
+hr.u{
+    width: 22vw; 
+    position: relative; right: 1vw;
+    border-color:aquamarine;
+}
+hr.dos{
+    width: 22vw;
+    position: relative; right: 1vw;
+    border-color:aquamarine;
+}
+
+hr.tres{
+    width: 22vw;
+    position: relative; right: 1vw;
+    border-color:aquamarine;
+}
+
+hr.quatre{
+    width: 22vw;
+    position: relative; right: 1vw;
+    border-color:aquamarine;
+}
+
+footer{
+    position: absolute; top:72vw; right:-2vw;
+    margin-left: 1vw;
+    display: inline;
+    border:1px;
+    height: 5vw;
+    width: 100vw;
+    background-color: black;
+}
+
+a.footer{
+    text-decoration: none;
+    color: white;
+
+}
+
+    
+
