@@ -102,8 +102,8 @@ a.footer:hover{
     color: skyblue;
 }
 
-footer.llista{
-    position: absolute; top:330vw; right:-5vw;
+footer{
+    position: absolute; top:400vw; right:-5vw;
     display: inline;
     border:1px;
     height: 5vw;
