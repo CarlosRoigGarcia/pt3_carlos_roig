@@ -1,0 +1,342 @@
+img.Delicias{
+    position: relative; left:40vw
+}
+body{
+    background-image: url(../imagenes/verduras.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-size: contain;
+}
+main{
+    text-align: center;
+    display:inline-block;
+    background-color: gainsboro;
+    position: relative; left: 15vw;
+    width: 70%;
+}
+header{
+    position: sticky;
+    top:0;
+    z-index: 100;
+    background-color: white;
+}
+nav{
+    margin-left: 20vw;
+    letter-spacing: 10px;
+    z-index: 100;
+}
+a.nav{
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+
+}
+
+a.nav:hover{
+    color:greenyellow;
+}
+hr.barra{
+    border-color: chocolate;
+    width: 80vw;
+    position: relative;
+    right: 10vw;
+    
+}
+
+section{
+    margin-bottom: 10vw;
+}
+
+ul.ingre{
+    list-style-type: square;
+    color:green;
+    font-size: -1vw;
+    margin-bottom: -5%;
+    position: relative;
+    bottom: 43%;
+    left: 40%;
+    }
+ul.pasos{
+    margin-bottom: -2%;
+    position: relative;
+    bottom: 40%;
+    left: -3%;
+}
+.modal-contenido{
+    background-color:aqua;
+    width:600px;
+    height: 500px;
+    margin-left: 30%;
+    margin-top: 11%;
+    position: relative; 
+  }
+  .modal{
+    background-color: rgba(0,0,0,.8);
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    opacity:0;
+    pointer-events: none;  
+  }
+  #pasta:target{
+      opacity:1;
+      pointer-events: auto;
+      transition: 1s;
+      text-align: left;
+  }
+
+  #galleta:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#mijo:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#calabacin:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#arroz:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#ensalada:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+
+#tortilla:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#falafel:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#mantequilla:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#curry:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#burritos:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#filete:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#cachopo:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#hamburguesa:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#garvanzo:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#taco:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#tortitas:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#rocas:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#queso:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#champiñon:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#craker:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#gazpacho:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#salsa:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#sarten:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#judias:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#crepe:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#tofu:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#aguacate:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#tomate:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+#tostada:target{
+    opacity:1;
+    pointer-events: auto;
+    transition: 1s;
+    text-align: left;
+}
+
+img.comida{
+    margin-top:5vw;
+    width: 40vw;
+    height: 30vw;
+}
+h3{
+    font-family: fantasy;
+    color:sienna;
+}
+a{
+    text-decoration: none;
+}
+
+h4{
+    font-family: cursive;
+    font-style:oblique;
+    color:green;
+}
+
+
+
+
+
+a.footer{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+    margin-left: 8vw;
+    position: relative; left: 25vw; bottom: -1vw;
+    z-index: 100;
+    font-size: 100%;
+    
+}
+
+
+a.footer:hover{
+    color: skyblue;
+}
+
+footer.llista{
+    position: fixed; bottom:0; right:0.05vw;
+    height: 5vw;
+    width: 110vw;
+    background-color: black;
+}

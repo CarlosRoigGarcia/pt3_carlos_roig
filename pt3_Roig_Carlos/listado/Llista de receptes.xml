@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Llista de receptes.xsl" type="text/xsl"?>
+
+
+
+<receptes>
+<recepta identificador="pasta">
+<title>Pasta con salsa de coliflor y pimineta de Jamaica</title>
+<tiempo> 25 min.</tiempo>
+<dificultad> 4</dificultad>
+<propiedades>Un delicioso plato con coliflor a la cúrcuma que destaca por su contenido de elementos fitoquímicos,
+un componente que ayuda a prevenir diversos tipos de cáncer. Su rico y sano sabor le da un toque especial.</propiedades>
+<imagen ruta="../imagenes/Pasta.jpg"/>
+<descripción>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresitible!
+Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten
+en un plato muy nutritivo y saludable.</descripción>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="galleta">
+<title>Galletas de avena, rosa y lima</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 4</dificultad>
+<propiedades>Unas deliciosas gaslletas bajas en aceite, con arina de avena y hechas para gente celiaca</propiedades>
+<imagen ruta="../imagenes/galletas.jpg"/>
+<ingredientes>
+<ingrediente>
+Aceite de oliva virgen extra
+100 g</ingrediente>
+<ingrediente>
+Azúcar
+175 g</ingrediente>
+<ingrediente>
+Huevo S (de unos 50 g cada uno sin cáscara)
+2</ingrediente>
+<ingrediente>
+Lima
+1</ingrediente>
+<ingrediente>
+Limón pequeño
+1</ingrediente>
+<ingrediente>
+Sal (1/2 cucharadita, aprox.)
+2 g</ingrediente>
+<ingrediente>
+Levadura química (2 cucharaditas)
+8 g</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+<ingrediente>
+Harina de repostería
+300 g
+</ingrediente>
+<ingrediente>
+Tomillo seco (1 cucharadita colmada, aprox.)
+5 g
+</ingrediente>
+<ingrediente>
+Copos de avena
+150 g
+</ingrediente>
+<ingrediente>
+Semillas de amapola
+15 g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Precalentar el horno a 180ºC con calor arriba y abajo, sin aire. Preparar dos bandejas grandes con papel antiadherente sulfurizado y lavar y secar las frutas cítricas.</paso>
+<paso>Abrir y disponer en un recipiente grande los huevos, el aceite de oliva virgen extra, el azúcar y la ralladura fina de lima y de limón. Batir con batidora de varillas o varillas manuales hasta que el azúcar se disuelva y adquiera una textura ligeramente esponjosa.</paso>
+<paso>Incorporar la sal, el tomillo y el zumo colado de las frutas, batiendo un poco más. Echar la harina con la levadura y batir a velocidad baja hasta incorporar. Agregar la avena, mezclar un poco y añadir las semillas de amapola. Terminar de trabajar hasta que quede una masa homogénea.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="mijo">
+<title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+<tiempo> 30 min.</tiempo>
+<dificultad> 3</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/mijo.jpg"/>
+<ingredientes>
+<ingrediente>
+2 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla grande
+</ingrediente>
+<ingrediente>
+2 dientes de ajo
+</ingrediente>
+<ingrediente>
+300 g de boniato pelado
+</ingrediente>
+<ingrediente>
+300 g de coliflor (parte blanca, sin el tronco)
+</ingrediente>
+<ingrediente>
+500 ml de agua
+</ingrediente>
+<ingrediente>
+1/2 taza de mijo
+</ingrediente>
+<ingrediente>
+1/2 taza de lentejas rojas partidas
+</ingrediente>
+<ingrediente>
+1 cucharadita de sal
+</ingrediente>
+<ingrediente>
+5 o 6 setas shiitake (unos 100 g)
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</paso>
+<paso>Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</paso>
+<paso>Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</paso>
+<paso>Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. </paso>
+</pasos>
+</recepta>
+
+
+<recepta identificador="calabacin">
+<title>Calabacines rellenos de arroz negro y calabaza</title>
+<tiempo> 100 min.</tiempo>
+<dificultad> 3</dificultad>
+<propiedades>Una receta fácil de hacer y resultona, con un sabor muy especial y muy saludable.
+			Los calabacines aportan muchos antioxidantes, además de vitaminas del grupo B como B6 
+			y ácido fólico (B9), y vitaminas K y C. Contiene minerales como potasio y manganeso.</propiedades>
+<imagen ruta="../imagenes/calabacines.jpg"/>
+<ingredientes>
+<ingrediente>
+6 calabacines redondos </ingrediente>
+<ingrediente>
+2 T de arroz negro sin cocinar (unas 5-6 T una vez hervido)</ingrediente>
+<ingrediente>
+4 T de agua</ingrediente>
+<ingrediente>
+2 c de sal de Himalaya</ingrediente>
+<ingrediente>
+Un poco de alga wakame</ingrediente>
+<ingrediente>
+400-500 g de setas shiitake frescas</ingrediente>
+<ingrediente>
+6 cebolletas tiernas</ingrediente>
+<ingrediente>
+3 c de comino</ingrediente>
+<ingrediente>2 C de cebolla seca molida</ingrediente>
+<ingrediente>Pimienta negra</ingrediente>
+<ingrediente>Sal para ajustar al gusto</ingrediente>
+<ingrediente>3 C de piñones tostados</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+
+<recepta identificador="arroz" >
+<title>Fideos de arroz con salteado de tofu y pimiento</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/1366_2000.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="ensalada">
+<title>Ensalada de quinoa, calabaza asada y granada</title>
+<tiempo> 40 min.</tiempo>
+<dificultad> 1</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/ensalada.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+
+<recepta identificador="tortilla">
+<title>Tortilla de patatas vegana</title>
+<tiempo> 45 min.</tiempo>
+<dificultad> 3</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/tortilla.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="falafel">
+<title>Falafel ligero</title>
+<tiempo> 45 min.</tiempo>
+<dificultad> 3</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/falafel.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="mantequilla">
+<title>Mantequilla de anacardos</title>
+<tiempo> 15 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/anacardo.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="curry">
+<title>Curry de garbanzos con mango</title>
+<tiempo> 40 min.</tiempo>
+<dificultad> 1</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/curry.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="burritos">
+<title>Receta de burritos vegetarianos</title>
+<tiempo> 60 min.</tiempo>
+<dificultad> 1</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/burrito.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="filete">
+<title>Filetes de seitán en salsa de pimienta</title>
+<tiempo> 20 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/seitán.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="cachopo">
+<title>Filetes de seitán rellenos de setas y tomate (estilo cachopo vegano)</title>
+<tiempo> 20 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/cachopo.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+<recepta>
+<title>Mini hamburguesas de aguacate y quinoa</title>
+<tiempo> 25 min.</tiempo>
+<dificultad> 1</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/hamburguesa.jpg"/>
+<ingredientes>
+<imagen ruta="../imagenes/Pasta.jpg"/>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="garvanzo">
+<title>Ensalada vegana de garbanzos tostados y col rizada kale</title>
+<tiempo> 40 min.</tiempo>
+<dificultad> 3</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/garvanzo.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="taco">
+<title>Tacos veganos de garbanzos y soja</title>
+<tiempo> 40 min.</tiempo>
+<dificultad> 1</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/Tacos.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="tortitas">
+<title>TORTITAS DE CREMA DE QUESO VEGANA</title>
+<tiempo> 40 min.</tiempo>
+<dificultad> 1</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/tortitas.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="rocas">
+<title>ROCAS DE CHOCOLATE A PARTIR DE TORTITAS DE ARROZ</title>
+<tiempo> 40 min.</tiempo>
+<dificultad> 1</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/rocas.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="queso">
+<title>Tarta de queso vegana</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/queso.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="champiñon">
+<title>Champiñones al horno crujientes con sabor a bacon</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/champiñones.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="cracker">
+<title>Crackers crujientes de garbanzo y zaatar</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/cracker.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="salsa">
+<title>Salsa boloñesa para vegetarianos</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/salsa.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="crema">
+<title>Salsa boloñesa para vegetarianos</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/crema.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="gazpacho">
+<title>Gazpacho de aguacate y pepino</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/gazpacho.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="sarten">
+<title>Sartén de brócoli con especias y coco.</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/sarten.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="judias">
+<title>Judías azuki con crema de verduras, arroz y miso</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/judias.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="crepe">
+<title>Crêpes con harina de garbanzos</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/crepe.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="tofu">
+<title>Tofu en salsa de ajo negro</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/tofu.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="aguacate">
+<title>Pastas con pesto de aguacate</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/aguacate.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="tomate">
+<title>Tomates rosas rellenos de piñones y uvas pasas</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/tomate.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+<recepta identificador="tostada">
+<title>Tostadas mexicanas de tofu picante</title>
+<tiempo> 35 min.</tiempo>
+<dificultad> 2</dificultad>
+<propiedades>Perfecto para dias y noches frias. Uno de sus ingredientes principales, el mijo, es un cereal ideal para tomar en épocas frias.
+				 También contiene mucho hierro y silicio. Apto para celiacos.</propiedades>
+<imagen ruta="../imagenes/tostada.jpg"/>
+<ingredientes>
+<ingrediente>
+4 cucharadas de aceite de oliva virgen extra
+</ingrediente>
+<ingrediente>
+1 cebolla
+</ingrediente>
+<ingrediente>
+4 dientes de ajo
+</ingrediente>
+<ingrediente>
+500g de coliflor
+</ingrediente>
+<ingrediente>
+2 tazas de caldo vegetal
+</ingrediente>
+<ingrediente>
+2 cucharadas de levadura nutricional
+</ingrediente>
+<ingrediente>
+1/2 taza de leche de almendras
+</ingrediente>
+<ingrediente>
+sal 100g
+</ingrediente>
+</ingredientes>
+<pasos>
+<paso>Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</paso>
+<paso>Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más</paso>
+<paso>Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté
+			tierna, seguramente se consumirá gran parte del líquido.</paso>
+<paso>Echaremos la preparación en una batidora y añadiremos la leche, la levadura, los granos de
+				pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</paso>
+<paso>Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</paso>
+</pasos>
+</recepta>
+
+</receptes>  

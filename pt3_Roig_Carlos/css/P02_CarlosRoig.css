@@ -1,0 +1,357 @@
+img.Delicias{
+    position: relative; left:40vw
+}
+header{
+    position: sticky;
+    top:0;
+    z-index: 100;
+    background-color: white;
+}
+nav{
+    position: sticky;
+     top:0; 
+    margin-left: 20vw;
+    letter-spacing: 10px;
+    z-index: 100;
+}
+a.nav{
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+
+}
+
+a.nav:hover{
+    color:greenyellow;
+}
+hr.barra{
+    border-color: chocolate;
+    width: 80vw;
+    position: relative;
+    right: 10vw;
+    
+}
+
+img.libro{
+ max-width: 100%;
+  height: auto;
+}
+
+div.Sobremi{
+    position:absolute; top:10vw; left:6vm;
+}
+
+div.img{
+    width: 50%;
+    max-width: 100vw;
+    margin: 0 auto;
+}
+img.perfil{
+width: 100%;
+height: auto;
+}
+div.libro{
+    position:relative; left:2vw; top:20vw;
+    display:inline-block;
+    border: 3vw;
+    height: 19vw;
+    background-color: whitesmoke;
+}
+div.llibre{
+    width:50%;
+    max-width:150vw;
+    margin: 0 auto;
+}
+img.libro{
+    position:relative; left:-1vw; top:1vw;
+    width:100%;
+    height: auto;
+}
+
+h4.libro {
+    position:absolute; left:2.5vw; top:0vw;
+    color:black;
+    cursor:pointer;
+    -webkit-transition: color 0.1s;
+    transition:color 0.1s;
+}
+h4.libro:hover{
+    color: red;
+}
+div.apun{
+    position:absolute; right:0vw; top:18vw;
+    display:inline-block;
+    background-color: chartreuse;
+    width: 100%;
+    height: 10%;
+}
+h5.libro{ 
+    position:absolute; bottom:-50%; left:30%;
+    color:black;
+    cursor:pointer; 
+    -webkit-transition: color 0.1s;
+    transition:color 0.1s;
+}
+
+h5.libro:hover{
+    color:cornflowerblue;
+}
+
+
+
+article.pasta{
+   position: absolute; left:28vw; top:12vw;
+
+}
+
+
+
+a.pasta{
+    text-decoration: none;
+    color:black;
+    cursor:pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+}
+a.pasta:hover{
+    color:chocolate;
+}
+
+a.galetes{
+    text-decoration: none;
+    color:black;
+    cursor:pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+}
+a.galetes:hover{
+    color:chocolate;
+}
+
+a.mijo{
+    text-decoration: none;
+    color:black;
+    cursor:pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+}
+a.mijo:hover{
+    color:chocolate;
+}
+
+a.calabacin{
+    text-decoration: none;
+    color:black;
+    cursor:pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+}
+a.calabacin:hover{
+    color:chocolate;
+}
+.giro{
+    background-color: transparent;
+    position:relative; 
+}
+.giro-interno{
+  position: relative;
+  
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.giro:hover .giro-interno{
+    transform:rotateY(180deg);
+}
+
+.giro-frontal, .giro-detras {
+    position:relative;  
+    --webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+}
+
+.giro-detras {
+    position:absolute; top:0vw; right:0vw;
+    
+    background-color:steelblue;
+    color:white;
+    width: 23vw;
+    height: 16vw;
+    transform: rotateY(180deg);
+}
+
+article.galetes{
+    position: absolute; left: 60vw; top:12vw;
+}
+
+.giro-dos{
+    background-color: transparent;
+    position:relative; 
+}
+.giro-interno-dos{
+  position: relative;
+  
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.giro-dos:hover .giro-interno-dos{
+    transform:rotateY(180deg);
+}
+
+.giro-frontal-dos, .giro-detras-dos {
+    position:relative;
+    --webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+}
+
+.giro-detras-dos {
+    position:absolute; top:0vw; right:0vw;
+    
+    background-color:steelblue;
+    color:white;
+    width: 23vw;
+    height: 16vw;
+    transform: rotateY(180deg);
+}
+
+
+
+
+article.mijo{
+    position: absolute; left:28vw; top:45vw;
+
+    
+}
+
+.giro-tres{
+    background-color: transparent;
+    position:relative; 
+}
+.giro-interno-tres{
+  position: relative;
+  
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.giro-tres:hover .giro-interno-tres{
+    transform:rotateY(180deg);
+}
+
+.giro-frontal-tres, .giro-detras-tres {
+    position:relative; 
+    --webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+}
+
+.giro-detras-tres {
+    position:absolute; top:0vw; right:0vw;
+    
+    background-color:steelblue;
+    color:white;
+    width: 24vw;
+    height: 16vw;
+    transform: rotateY(180deg);
+}
+
+article.calabacin{
+    position: absolute; left:60vw; top:46vw;
+}
+
+.giro-quatre{
+    background-color: transparent;
+    position:relative; 
+}
+.giro-interno-quatre{
+  position: relative;
+  
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.giro-quatre:hover .giro-interno-quatre{
+    transform:rotateY(180deg);
+}
+
+.giro-frontal-quatre, .giro-detras-quatre {
+    position:relative;
+    --webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+}
+
+.giro-detras-quatre {
+    position:absolute; top:0vw; right:0vw;
+    
+    background-color:steelblue;
+    color:white;
+    width: 24vw;
+    height: 16vw;
+    transform: rotateY(180deg);
+}
+
+hr.u{
+    width: 22vw; 
+    position: relative; right: 1vw;
+    border-color:aquamarine;
+}
+hr.dos{
+    width: 22vw;
+    position: relative; right: 1vw;
+    border-color:aquamarine;
+}
+
+hr.tres{
+    width: 22vw;
+    position: relative; right: 1vw;
+    border-color:aquamarine;
+}
+
+hr.quatre{
+    width: 22vw;
+    position: relative; right: 1vw;
+    border-color:aquamarine;
+}
+
+div.data{
+    position:relative; left:7vw;
+}
+
+
+
+
+a.footer{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+    margin-left: 8vw;
+    position: relative; left: 25vw; bottom: -1vw;
+    z-index: 100;
+    font-size: 100%;
+    
+}
+
+
+a.footer:hover{
+    color: skyblue;
+}
+
+footer.llista{
+    position: absolute; bottom:-30vw; right:0.05vw;
+    height: 5vw;
+    width: 110vw;
+    background-color: black;
+}
+    
+
+
+    
+

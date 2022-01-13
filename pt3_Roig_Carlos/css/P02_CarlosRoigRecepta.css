@@ -1,0 +1,105 @@
+img.Delicias{
+    position: relative; left:40vw
+}
+header{
+    position: sticky;
+    top:0;
+    z-index: 100;
+    background-color: white;
+}
+nav{
+    position: sticky;
+     top: 0; 
+     margin-top:-3vw;
+    margin-left: 20vw;
+    letter-spacing: 10px;
+    display:inline-block;
+    background-color: white;
+    z-index: 100;
+}
+a.nav{
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+
+}
+
+a.nav:hover{
+    color:greenyellow;
+}
+hr.barra{
+    border-color: chocolate;
+    width: 80vw;
+    position: relative;
+    right: 10vw;
+    
+}
+
+img{
+    margin-bottom: 7vw;
+    margin-top: 4vw;
+}
+
+
+
+img.ajo{
+    position: relative;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+div.pasta{
+font-size: 1vw;
+text-align: center;
+}
+h3{
+    text-align:center;
+}
+ul{
+list-style-type: square;
+color:green;
+list-style-position: inside; 
+font-size: 1.5vw;
+position: relative; left:50vw; top: -25vw;
+}
+div.tiempo{
+    position: relative; top:-20vw;
+    font-style: oblique;
+    font-size: 2vw; 
+}
+
+  
+ol{
+    margin-top:10vw;
+    list-style-position: inside;
+    font-size: 1.5vw;
+    font-style: initial;
+}
+
+a.footer{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    -webkit-transition: color 0.1s;
+    transition: color 0.1s;
+    margin-left: 8vw;
+    position: relative; left: 25vw; bottom: -1vw;
+    z-index: 100;
+    font-size: 100%;
+    
+}
+
+
+a.footer:hover{
+    color: skyblue;
+}
+
+footer.llista{
+    position: absolute; bottom:-350vw; right:0.05vw;
+    height: 5vw;
+    width: 110vw;
+    background-color: black;
+}
